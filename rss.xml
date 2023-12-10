@@ -4,7 +4,57 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Fri, 08 Dec 2023 14:25:54 +0000</lastBuildDate>
+<lastBuildDate>Sun, 10 Dec 2023 14:18:57 +0000</lastBuildDate>
+<item>
+  <title><![CDATA[gaba]]></title>
+  <description><![CDATA[
+<p>
+ejkdl2kd
+</p>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-health.html">health</a> </div>]]></description>
+  <category><![CDATA[health]]></category>
+  <link>https://peterjauhal.github.io/20231210T141557--gaba__health.html</link>
+  <guid>https://peterjauhal.github.io/20231210T141557--gaba__health.html</guid>
+  <pubDate>Sun, 10 Dec 2023 14:18:57 +0000</pubDate>
+</item>
+<item>
+  <title><![CDATA[First steps for my blog]]></title>
+  <description><![CDATA[
+<ol class="org-ol">
+<li><code>M-x org-static-blog-create-new-post</code></li>
+<li>You write there. It is saved in your "posts" directory of your blog.</li>
+<li>Once you are done, <code>M-x org-static-blog-publish</code> to rebuild the
+entire blog.</li>
+<li>Go to the directory where the generated files are. I believe we
+called it "assets".</li>
+<li>Do <code>M-x magit-status</code> to get into the Git interface.</li>
+<li>Type <code>s</code> in the Magit status to "stage" the unstaged changes. This
+means that you select which changes you wish to record in the
+history.</li>
+<li>Type <code>c</code> followed by <code>c</code> inside of Magit to "commit" the staged
+changes. This means that you now write an entry to the history log.</li>
+<li>At this point, Magit produces a Git commit message composition
+buffer. Describe in a few words what your change is, such as "Add
+new publication" or "Add journal entry for 2023-12-10".</li>
+<li>Once you have written the message, type <code>C-c C-c</code> in the message
+composition buffer to confirm/write the message.</li>
+<li>You are done recording the history. Now you are ready to "push"
+your changes, meaning to synchronise them with GitHub.</li>
+<li><p>
+Type <code>P</code> followed by <code>p</code> to push to GitHub (technically, you are
+pushing to the configured "remote").
+</p>
+
+<p>
+<a href="2023-12-08-my-second-blog-post.html">test</a>
+</p></li>
+</ol>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-blog.html">blog</a> </div>]]></description>
+  <category><![CDATA[blog]]></category>
+  <link>https://peterjauhal.github.io/2023-12-10-first-steps-for-my-blog.html</link>
+  <guid>https://peterjauhal.github.io/2023-12-10-first-steps-for-my-blog.html</guid>
+  <pubDate>Sun, 10 Dec 2023 14:09:00 +0000</pubDate>
+</item>
 <item>
   <title><![CDATA[my second blog post]]></title>
   <description><![CDATA[
