@@ -4,7 +4,7 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Thu, 14 Dec 2023 13:31:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Dec 2023 13:39:41 +0000</lastBuildDate>
 <item>
   <title><![CDATA[test with image]]></title>
   <description><![CDATA[
@@ -13,8 +13,8 @@ this is a fun project
 </p>
 
 
-<figure id="org76e4077">
-<img src="file:///home/peter/org/blog/assets/pictures/F5PGVBsaMAAYPK6.jpeg" alt="F5PGVBsaMAAYPK6.jpeg">
+<figure id="orgc3103d9">
+<img src="./assets/pictures/F5PGVBsaMAAYPK6.jpeg" alt="F5PGVBsaMAAYPK6.jpeg">
 
 </figure>
 <div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-test.html">test</a> </div>]]></description>
