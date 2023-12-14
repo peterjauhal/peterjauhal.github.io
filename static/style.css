@@ -50,10 +50,10 @@
 body {
     background: var(--ef-summer-color-basebg);
     color: var(--ef-summer-color-basefg);
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-direction: column;
-    flex-direction: column;
+    /* display: -ms-flexbox; */
+    /* display: flex; */
+    /* -ms-flex-direction: column; */
+    /* flex-direction: column; */
     min-height: 100vh;
 }
 
