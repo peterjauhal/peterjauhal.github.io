@@ -1,0 +1,94 @@
+:root {
+    --ef-summer-color-black:              #4f4073;
+    --ef-summer-color-black-alt:          #786e74;
+    --ef-summer-color-red:                #d3303a;
+    --ef-summer-color-red-alt:            #d50f7f;
+    --ef-summer-color-green:              #217a3c;
+    --ef-summer-color-green-alt:          #007f68;
+    --ef-summer-color-yellow:             #a45f22;
+    --ef-summer-color-yellow-alt:         #b65050;
+    --ef-summer-color-blue:               #375ce6;
+    --ef-summer-color-blue-alt:           #5250ef;
+    --ef-summer-color-magenta:            #cb1aaa;
+    --ef-summer-color-magenta-alt:        #8e44f3;
+    --ef-summer-color-cyan:               #1f6fbf;
+    --ef-summer-color-cyan-alt:           #0f7b8f;
+    --ef-summer-color-white-alt:          #efd3e4;
+    --ef-summer-color-white:              #fff2f3;
+    --ef-summer-color-basebg:             var(--ef-summer-color-white);
+    --ef-summer-color-basebgalt:          var(--ef-summer-color-white-alt);
+    --ef-summer-color-basefg:             var(--ef-summer-color-black);
+    --ef-summer-color-basefgalt:          var(--ef-summer-color-black-alt);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --ef-summer-color-black:       #392f4f;
+        --ef-summer-color-black-alt:   #59335b;
+        --ef-summer-color-red:         #ff7359;
+        --ef-summer-color-red-alt:     #ff78aa;
+        --ef-summer-color-green:       #60b444;
+        --ef-summer-color-green-alt:   #60bf88;
+        --ef-summer-color-yellow:      #e5b76f;
+        --ef-summer-color-yellow-alt:  #f59280;
+        --ef-summer-color-blue:        #8fa5f6;
+        --ef-summer-color-blue-alt:    #a897ef;
+        --ef-summer-color-magenta:     #ef80bf;
+        --ef-summer-color-magenta-alt: #df7fff;
+        --ef-summer-color-cyan:        #8fbaef;
+        --ef-summer-color-cyan-alt:    #8fcfdf;
+        --ef-summer-color-white-alt:   #808898;
+        --ef-summer-color-white:       #d3cfcf;
+        --ef-summer-color-basebg:             var(--ef-summer-color-black);
+        --ef-summer-color-basebgalt:          var(--ef-summer-color-black-alt);
+        --ef-summer-color-basefg:             var(--ef-summer-color-white);
+        --ef-summer-color-basefgalt:          var(--ef-summer-color-white-alt);
+    }
+}
+
+
+body {
+    background: var(--ef-summer-color-basebg);
+    color: var(--ef-summer-color-basefg);
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#content {
+    margin: 0 auto;
+    width: auto;
+    max-width: 980px;
+}
+
+.post-date {
+    color: var(--ef-summer-color-basefgalt);
+    font-size: 0.8em;
+    margin: 3em 0 0.5em 0
+}
+
+.post-title {
+    margin: 0 0 0.5em 0;
+}
+
+.post-title a {
+    color: var(--ef-summer-color-magenta-alt);
+    text-decoration: none;
+}
+
+.taglist {
+    font-size: 0.8em;
+    margin: 0.5em 0 3em 0;
+}
+
+.taglist a {
+    color: var(--ef-summer-color-magenta-alt);
+    text-decoration: none;
+}
+
+a {
+    color: var(--ef-summer-color-blue);
+    text-decoration: none;
+}
