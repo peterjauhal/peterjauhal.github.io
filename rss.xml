@@ -4,7 +4,25 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Thu, 14 Dec 2023 13:20:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 14 Dec 2023 13:31:54 +0000</lastBuildDate>
+<item>
+  <title><![CDATA[test with image]]></title>
+  <description><![CDATA[
+<p>
+this is a fun project
+</p>
+
+
+<figure id="org76e4077">
+<img src="file:///home/peter/org/blog/assets/pictures/F5PGVBsaMAAYPK6.jpeg" alt="F5PGVBsaMAAYPK6.jpeg">
+
+</figure>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-test.html">test</a> </div>]]></description>
+  <category><![CDATA[test]]></category>
+  <link>https://peterjauhal.github.io/2023-12-14-test-with-image.html</link>
+  <guid>https://peterjauhal.github.io/2023-12-14-test-with-image.html</guid>
+  <pubDate>Thu, 14 Dec 2023 13:27:00 +0000</pubDate>
+</item>
 <item>
   <title><![CDATA[second post today]]></title>
   <description><![CDATA[
