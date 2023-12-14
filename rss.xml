@@ -4,7 +4,7 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Sun, 10 Dec 2023 14:18:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 13 Dec 2023 09:13:59 +0000</lastBuildDate>
 <item>
   <title><![CDATA[gaba]]></title>
   <description><![CDATA[
@@ -15,7 +15,19 @@ ejkdl2kd
   <category><![CDATA[health]]></category>
   <link>https://peterjauhal.github.io/20231210T141557--gaba__health.html</link>
   <guid>https://peterjauhal.github.io/20231210T141557--gaba__health.html</guid>
-  <pubDate>Sun, 10 Dec 2023 14:18:57 +0000</pubDate>
+  <pubDate>Wed, 13 Dec 2023 09:13:59 +0000</pubDate>
+</item>
+<item>
+  <title><![CDATA[wednesday's blog]]></title>
+  <description><![CDATA[
+<p>
+this is wednesday's test page
+</p>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-testing.html">testing</a> </div>]]></description>
+  <category><![CDATA[testing]]></category>
+  <link>https://peterjauhal.github.io/2023-12-13-wednesday's-blog.html</link>
+  <guid>https://peterjauhal.github.io/2023-12-13-wednesday's-blog.html</guid>
+  <pubDate>Wed, 13 Dec 2023 09:13:00 +0000</pubDate>
 </item>
 <item>
   <title><![CDATA[First steps for my blog]]></title>
