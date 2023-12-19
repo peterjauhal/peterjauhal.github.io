@@ -52,6 +52,24 @@
     max-width: 980px;
 }
 
+.header ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.header li {
+    display: inline-block;
+    line-height: 1.5em;
+    margin-right: 1.5em;
+}
+
+.header li:last-child {
+    margin-right: 0;
+    padding-right: 0;
+}
+
 body {
     background: var(--ef-summer-color-basebg);
     color: var(--ef-summer-color-basefg);
