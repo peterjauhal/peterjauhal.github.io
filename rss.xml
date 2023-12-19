@@ -4,7 +4,7 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Tue, 19 Dec 2023 13:29:36 +0000</lastBuildDate>
+<lastBuildDate>Tue, 19 Dec 2023 13:36:43 +0000</lastBuildDate>
 <item>
   <title><![CDATA[Contact]]></title>
   <description><![CDATA[
@@ -12,7 +12,8 @@
 Email: public@jauhal.org
 X/Twitter: @jauhalpeter
 </p>
-<div class="taglist"></div>]]></description>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-nonpost.html">nonpost</a> </div>]]></description>
+  <category><![CDATA[nonpost]]></category>
   <link>https://peterjauhal.github.io/contact.html</link>
   <guid>https://peterjauhal.github.io/contact.html</guid>
   <pubDate>Tue, 19 Dec 2023 13:28:00 +0000</pubDate>
@@ -23,7 +24,8 @@ X/Twitter: @jauhalpeter
 <p>
 this is about me
 </p>
-<div class="taglist"></div>]]></description>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-nonpost.html">nonpost</a> </div>]]></description>
+  <category><![CDATA[nonpost]]></category>
   <link>https://peterjauhal.github.io/about.html</link>
   <guid>https://peterjauhal.github.io/about.html</guid>
   <pubDate>Tue, 19 Dec 2023 13:27:00 +0000</pubDate>
