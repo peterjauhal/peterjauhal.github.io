@@ -46,6 +46,11 @@
     }
 }
 
+.header {
+    margin: 0 auto;
+    width: auto;
+    max-width: 980px;
+}
 
 body {
     background: var(--ef-summer-color-basebg);
