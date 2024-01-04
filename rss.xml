@@ -4,7 +4,499 @@
 <title><![CDATA[Peter's Blog]]></title>
 <description><![CDATA[Peter's Blog]]></description>
 <link>https://peterjauhal.github.io/</link>
-<lastBuildDate>Fri, 29 Dec 2023 16:08:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 04 Jan 2024 15:48:33 +0000</lastBuildDate>
+<item>
+  <title><![CDATA[Health Update December 2023]]></title>
+  <description><![CDATA[
+<p>
+I think that it might be useful for my future self to see my current health data, so I am going to provide health updates every month.
+</p>
+
+<p>
+The raw data for December 2023 are as follows:
+</p>
+
+
+<table>
+
+
+<colgroup>
+<col  class="org-left">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-right">
+
+<col  class="org-left">
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-01 Fri 09:57]</span></span></td>
+<td class="org-right">180.2</td>
+<td class="org-right">176.3</td>
+<td class="org-right">50.7</td>
+<td class="org-right">46.4</td>
+<td class="org-right">75.2</td>
+<td class="org-right">75.6</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-02 Sat 07:27]</span></span></td>
+<td class="org-right">179.4</td>
+<td class="org-right">176.4</td>
+<td class="org-right">51.9</td>
+<td class="org-right">46.4</td>
+<td class="org-right">64.3</td>
+<td class="org-right">75.5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-03 Sun 09:44]</span></span></td>
+<td class="org-right">179.2</td>
+<td class="org-right">176.4</td>
+<td class="org-right">46.4</td>
+<td class="org-right">46.4</td>
+<td class="org-right">53.2</td>
+<td class="org-right">75.5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-04 Mon 07:33]</span></span></td>
+<td class="org-right">178.6</td>
+<td class="org-right">176.4</td>
+<td class="org-right">44.8</td>
+<td class="org-right">46.4</td>
+<td class="org-right">72.7</td>
+<td class="org-right">75.5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-05 Tue 08:48]</span></span></td>
+<td class="org-right">178</td>
+<td class="org-right">176.4</td>
+<td class="org-right">46.9</td>
+<td class="org-right">46.4</td>
+<td class="org-right">77.8</td>
+<td class="org-right">75.5</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-right">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-06 Wed 07:29]</span></span></td>
+<td class="org-right">179</td>
+<td class="org-right">176.4</td>
+<td class="org-right">48</td>
+<td class="org-right">46.4</td>
+<td class="org-right">57.4</td>
+<td class="org-right">75.4</td>
+<td class="org-right">7</td>
+<td class="org-right">7.0</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-07 Thu 10:32]</span></span></td>
+<td class="org-right">179.6</td>
+<td class="org-right">176.4</td>
+<td class="org-right">47.1</td>
+<td class="org-right">46.4</td>
+<td class="org-right">41.5</td>
+<td class="org-right">75.2</td>
+<td class="org-right">7</td>
+<td class="org-right">7.0</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-08 Fri 07:16]</span></span></td>
+<td class="org-right">179.6</td>
+<td class="org-right">176.4</td>
+<td class="org-right">49.4</td>
+<td class="org-right">46.4</td>
+<td class="org-right">45.1</td>
+<td class="org-right">75.1</td>
+<td class="org-right">6.5</td>
+<td class="org-right">6.8</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-09 Sat 07:41]</span></span></td>
+<td class="org-right">179.6</td>
+<td class="org-right">176.4</td>
+<td class="org-right">46.6</td>
+<td class="org-right">46.4</td>
+<td class="org-right">64.6</td>
+<td class="org-right">75.0</td>
+<td class="org-right">7.5</td>
+<td class="org-right">7.0</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-10 Sun 09:41]</span></span></td>
+<td class="org-right">179.4</td>
+<td class="org-right">176.4</td>
+<td class="org-right">50.4</td>
+<td class="org-right">46.5</td>
+<td class="org-right">41.8</td>
+<td class="org-right">74.9</td>
+<td class="org-right">8.75</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-11 Mon 09:12]</span></span></td>
+<td class="org-right">180.2</td>
+<td class="org-right">176.5</td>
+<td class="org-right">45.2</td>
+<td class="org-right">46.5</td>
+<td class="org-right">80.2</td>
+<td class="org-right">74.9</td>
+<td class="org-right">7</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-12 Tue 08:50]</span></span></td>
+<td class="org-right">178.6</td>
+<td class="org-right">176.5</td>
+<td class="org-right">48</td>
+<td class="org-right">46.5</td>
+<td class="org-right">45.6</td>
+<td class="org-right">74.8</td>
+<td class="org-right">5</td>
+<td class="org-right">7.0</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-13 Wed 08:56]</span></span></td>
+<td class="org-right">179</td>
+<td class="org-right">176.5</td>
+<td class="org-right">46.4</td>
+<td class="org-right">46.5</td>
+<td class="org-right">63.4</td>
+<td class="org-right">74.7</td>
+<td class="org-right">7.25</td>
+<td class="org-right">7.0</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-14 Thu 09:53]</span></span></td>
+<td class="org-right">178.8</td>
+<td class="org-right">176.5</td>
+<td class="org-right">47.9</td>
+<td class="org-right">46.5</td>
+<td class="org-right">58.3</td>
+<td class="org-right">74.6</td>
+<td class="org-right">8.5</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-15 Fri 07:23]</span></span></td>
+<td class="org-right">180.2</td>
+<td class="org-right">176.5</td>
+<td class="org-right">45.7</td>
+<td class="org-right">46.5</td>
+<td class="org-right">59.3</td>
+<td class="org-right">74.6</td>
+<td class="org-right">6.25</td>
+<td class="org-right">7.1</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-16 Sat 07:22]</span></span></td>
+<td class="org-right">179.6</td>
+<td class="org-right">176.5</td>
+<td class="org-right">46.9</td>
+<td class="org-right">46.5</td>
+<td class="org-right">73.8</td>
+<td class="org-right">74.6</td>
+<td class="org-right">7.25</td>
+<td class="org-right">7.1</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-17 Sun 10:01]</span></span></td>
+<td class="org-right">179</td>
+<td class="org-right">176.5</td>
+<td class="org-right">46.8</td>
+<td class="org-right">46.5</td>
+<td class="org-right">54.6</td>
+<td class="org-right">74.5</td>
+<td class="org-right">9</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-18 Mon 07:15]</span></span></td>
+<td class="org-right">179.8</td>
+<td class="org-right">176.6</td>
+<td class="org-right">44.1</td>
+<td class="org-right">46.5</td>
+<td class="org-right">81.8</td>
+<td class="org-right">74.5</td>
+<td class="org-right">7</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-19 Tue 07:22]</span></span></td>
+<td class="org-right">178.4</td>
+<td class="org-right">176.6</td>
+<td class="org-right">45.8</td>
+<td class="org-right">46.5</td>
+<td class="org-right">72.8</td>
+<td class="org-right">74.5</td>
+<td class="org-right">7</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-20 Wed 06:31]</span></span></td>
+<td class="org-right">179.8</td>
+<td class="org-right">176.6</td>
+<td class="org-right">46.3</td>
+<td class="org-right">46.5</td>
+<td class="org-right">64.3</td>
+<td class="org-right">74.4</td>
+<td class="org-right">6.25</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-21 Thu 09:12]</span></span></td>
+<td class="org-right">180.6</td>
+<td class="org-right">176.6</td>
+<td class="org-right">45.5</td>
+<td class="org-right">46.5</td>
+<td class="org-right">56.6</td>
+<td class="org-right">74.4</td>
+<td class="org-right">7.25</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-22 Fri 07:53]</span></span></td>
+<td class="org-right">179.2</td>
+<td class="org-right">176.6</td>
+<td class="org-right">45</td>
+<td class="org-right">46.4</td>
+<td class="org-right">87.1</td>
+<td class="org-right">74.4</td>
+<td class="org-right">9</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-23 Sat 06:53]</span></span></td>
+<td class="org-right">179.4</td>
+<td class="org-right">176.6</td>
+<td class="org-right">45.2</td>
+<td class="org-right">46.4</td>
+<td class="org-right">101.7</td>
+<td class="org-right">74.5</td>
+<td class="org-right">7</td>
+<td class="org-right">7.2</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-24 Sun 09:31]</span></span></td>
+<td class="org-right">179.8</td>
+<td class="org-right">176.6</td>
+<td class="org-right">48</td>
+<td class="org-right">46.4</td>
+<td class="org-right">93.5</td>
+<td class="org-right">74.6</td>
+<td class="org-right">7.5</td>
+<td class="org-right">7.3</td>
+<td class="org-left">migraine, sweating</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-25 Mon 07:29]</span></span></td>
+<td class="org-right">180</td>
+<td class="org-right">176.6</td>
+<td class="org-right">48.6</td>
+<td class="org-right">46.5</td>
+<td class="org-right">61.3</td>
+<td class="org-right">74.6</td>
+<td class="org-right">7.5</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-26 Tue 07:52]</span></span></td>
+<td class="org-right">181.4</td>
+<td class="org-right">176.7</td>
+<td class="org-right">50.1</td>
+<td class="org-right">46.5</td>
+<td class="org-right">67.6</td>
+<td class="org-right">74.5</td>
+<td class="org-right">9</td>
+<td class="org-right">7.4</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-27 Wed 07:53]</span></span></td>
+<td class="org-right">182.4</td>
+<td class="org-right">176.7</td>
+<td class="org-right">47.6</td>
+<td class="org-right">46.5</td>
+<td class="org-right">42.7</td>
+<td class="org-right">74.4</td>
+<td class="org-right">7</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-28 Thu 07:40]</span></span></td>
+<td class="org-right">180.4</td>
+<td class="org-right">176.7</td>
+<td class="org-right">48.8</td>
+<td class="org-right">46.5</td>
+<td class="org-right">71.6</td>
+<td class="org-right">74.4</td>
+<td class="org-right">8</td>
+<td class="org-right">7.4</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-29 Fri 16:12]</span></span></td>
+<td class="org-right">181</td>
+<td class="org-right">176.7</td>
+<td class="org-right">52.9</td>
+<td class="org-right">46.5</td>
+<td class="org-right">66</td>
+<td class="org-right">74.3</td>
+<td class="org-right">7.25</td>
+<td class="org-right">7.4</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-30 Sat 09:16]</span></span></td>
+<td class="org-right">181</td>
+<td class="org-right">176.7</td>
+<td class="org-right">49.4</td>
+<td class="org-right">46.5</td>
+<td class="org-right">48.2</td>
+<td class="org-right">74.2</td>
+<td class="org-right">8</td>
+<td class="org-right">7.4</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left"><span class="timestamp-wrapper"><span class="timestamp">[2023-12-31 Sun 06:47]</span></span></td>
+<td class="org-right">181.2</td>
+<td class="org-right">179.7</td>
+<td class="org-right">42.5</td>
+<td class="org-right">47.3</td>
+<td class="org-right">97.1</td>
+<td class="org-right">65.5</td>
+<td class="org-right">5.75</td>
+<td class="org-right">7.3</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<p>
+The resting heart rate was fairly stable and the average for the month was 47.3.
+</p>
+
+
+
+<figure id="orgdd64278">
+<img src="./pictures/2023-12-hr-heatmap.png" alt="2023-12-hr-heatmap.png">
+
+</figure>
+
+
+<p>
+My heart rate variability averaged at 65.5 which is about 20 points higher than the average person of my age of 61.
+</p>
+
+
+<figure id="org4e6f030">
+<img src="./pictures/2023-12-hrv-heatmap.png" alt="2023-12-hrv-heatmap.png">
+
+</figure>
+
+
+<p>
+My sleep averaged at 7.3 hours which is satisfactory for me.
+</p>
+
+
+<figure id="org7c01194">
+<img src="./pictures/2023-12-sleep-heatmap.png" alt="2023-12-sleep-heatmap.png">
+
+</figure>
+
+
+<p>
+My weight has been rising regularly during the year from around 165 pounds at the start of the year but ending at just under 180 pounds. I am not happy about this although I look and feel fine!!
+</p>
+
+
+
+<figure id="orga89b037">
+<img src="./pictures/2023-12-wght-heatmap.png" alt="2023-12-wght-heatmap.png">
+
+</figure>
+<div class="taglist"><a href="https://peterjauhal.github.io/tags.html">Tags</a>: <a href="https://peterjauhal.github.io/tag-health.html">health</a> </div>]]></description>
+  <category><![CDATA[health]]></category>
+  <link>https://peterjauhal.github.io/2024-01-04-health-update-december-2023.html</link>
+  <guid>https://peterjauhal.github.io/2024-01-04-health-update-december-2023.html</guid>
+  <pubDate>Thu, 04 Jan 2024 15:38:00 +0000</pubDate>
+</item>
 <item>
   <title><![CDATA[the three minds]]></title>
   <description><![CDATA[
