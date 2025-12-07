@@ -9,34 +9,53 @@ layout: null
   <title>Jauhal.org</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
   <style>
-    /* Add a subtle background to the whole page */
+    /* Custom Color Palette: Burgundy & Cream */
+    :root {
+        --bg-color: #F5E6E8;       /* Light Burgundy/Creamy Background */
+        --header-bg: #5D1828;      /* Deep Burgundy */
+        --header-text: #ffffff;
+        --card-bg: #ffffff;
+        --text-color: #2c2c2c;
+    }
+
     body {
-        background-color: var(--pico-background-color);
+        background-color: var(--bg-color);
+        color: var(--text-color);
     }
     
-    /* Style the main header to pop a bit more */
+    /* Styled Burgundy Header */
     .site-header {
-        padding: 3rem 0;
-        background-color: var(--pico-card-background-color);
-        border-bottom: 1px solid var(--pico-muted-border-color);
-        margin-bottom: 2rem;
+        padding: 4rem 0;
+        background-color: var(--header-bg);
+        color: var(--header-text);
+        box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        margin-bottom: 3rem;
         text-align: center;
     }
     
     .site-title {
-        font-size: 2.5rem;
+        font-size: 3rem;
         margin-bottom: 0.5rem;
-        color: var(--pico-primary);
+        color: var(--header-text); /* Force white text */
+        font-family: serif; /* More premium look */
     }
 
-    /* Card hover effect */
+    /* Cards should pop against the color background */
     article.post-card {
+        background-color: var(--card-bg);
+        padding: 2rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
         transition: transform 0.2s;
+        border: none; /* Remove default borders */
     }
     article.post-card:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        transform: translateY(-5px);
+        box-shadow: 0 8px 24px rgba(93, 24, 40, 0.15); /* Burgundy tinted shadow */
     }
+    
+    a { color: #800020; text-decoration: none; } /* Burgundy Links */
+    a:hover { text-decoration: underline; }
   </style>
 </head>
 <body>
