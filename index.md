@@ -46,7 +46,10 @@ layout: null
     
     <footer>
       <hr>
-      <small>Powered by n8n & GitHub Pages</small>
+      <p>
+        <small>Connect with me on X: <a href="https://x.com/JauhalPeter" target="_blank">@JauhalPeter</a></small><br>
+        <small>Powered by n8n & GitHub Pages</small>
+      </p>
     </footer>
   </main>
 </body>
