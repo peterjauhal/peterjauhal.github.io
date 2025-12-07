@@ -38,7 +38,7 @@ This isn't about importing exotic Eastern wisdom to solve Western technical prob
 - Case studies showing how emptiness-informed approaches are already emerging in cutting-edge AI safety research
 - Practical implications for how we develop, deploy, and govern AI systems
 
-> **Pull Quote:** "The question isn't 'What values should we program into AI?' but 'What conditions cultivate beneficial patterns in complex, interdependent systems?'"
+> "The question isn't 'What values should we program into AI?' but 'What conditions cultivate beneficial patterns in complex, interdependent systems?'"
 
 To answer that, we first need to understand what emptiness actually means—and why it matters for intelligence, artificial or otherwise.
 
@@ -95,8 +95,6 @@ This reveals three dimensions of interdependence:
 
 This leads to a **process ontology**: reality consists not of static substances that undergo change, but of dynamic processes that exhibit temporary stability. A river provides the classic analogy—it has continuity and identity (the Colorado River), yet it's never the same water twice. What we call "the river" is a pattern of flow, not a thing that flows. Similarly, what we call "a person", "a mind", or "an AI system" are patterns of processes, not substances with essential cores.
 
-**Visual Concept: Dependent Origination Diagram**  
-*[A circular diagram showing the Twelve Nidānas arranged in a wheel formation, with bidirectional arrows indicating feedback loops. Annotations highlight how breaking any single link affects the entire system, and how each element depends on all others. The center shows "Emptiness ⟷ Interdependence" as two sides of the same coin.]*
 
 ### 2.3 Implications for Identity and Agency
 
