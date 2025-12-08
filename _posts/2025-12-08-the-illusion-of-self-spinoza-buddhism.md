@@ -127,12 +127,11 @@ It's crucial to clarify what Buddhist no-self doesn't mean, as it's frequently m
 
 ## Direct Comparisons: Convergent Philosophical Solutions
 
-### Structural Parallels: Modes and Aggregates
 
-The first striking parallel between Spinoza and Buddhism is their shared compositional analysis of the person. Both traditions decompose what we call the self into constituent elements and find no unified, independent entity.
+The striking parallel between Spinoza and Buddhism is their shared compositional analysis of the person. Both traditions decompose what we call the self into constituent elements and find no unified, independent entity.
 
 Spinoza's modes are temporary configurations of the one substance, determined by infinite causal chains. They appear distinct but are wholly dependent on substance and the totality of other modes. A human mind is a mode of thought; a human body is a mode of extension. Neither exists independently—they're modifications of the infinite, like ripples on water.
 
 Buddhist aggregates are temporarily co-arising processes, each conditioned by causes and empty of inherent existence. A person is a conventional designation for the five aggregates functioning together, but no aggregate or combination of aggregates constitutes a self. Each aggregate is itself composite and impermanent.
 
-The parallel is profound: both systems explain why the illusion of separate selfhood is so convincing while simultaneously demonstrating why it's illusory. From the inside, the first-person perspective necessarily feels like a unified, autonomous agent. A mode of
+The parallel is profound: both systems explain why the illusion of separate selfhood is so convincing while simultaneously demonstrating why it's illusory.
