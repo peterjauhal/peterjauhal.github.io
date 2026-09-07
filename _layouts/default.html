@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
+  <style>
+    :root {
+        --bg-color: #F5E6E8;
+        --header-bg: #5D1828;
+        --header-text: #ffffff;
+        --card-bg: #ffffff;
+        --text-color: #2c2c2c;
+    }
+
+    body {
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    .site-header {
+        background-color: var(--header-bg);
+        color: var(--header-text);
+        box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        margin-bottom: 2.5rem;
+    }
+
+    .site-nav {
+        padding: 1rem 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+    }
+
+    .site-nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        gap: 1.5rem;
+    }
+
+    .site-nav a {
+        color: var(--header-text);
+        text-decoration: none;
+        font-weight: 500;
+        font-size: 0.95rem;
+        transition: opacity 0.2s;
+    }
+
+    .site-nav a:hover {
+        opacity: 0.8;
+        text-decoration: underline;
+    }
+
+    .header-hero {
+        padding: 3rem 0;
+        text-align: center;
+    }
+
+    .site-title {
+        font-size: 3rem;
+        margin-bottom: 0.5rem;
+        color: var(--header-text);
+        font-family: serif;
+    }
+
+    .site-title a {
+        color: var(--header-text);
+        text-decoration: none;
+    }
+
+    .site-subtitle {
+        color: rgba(255, 255, 255, 0.9);
+        font-size: 1.2rem;
+        font-weight: 300;
+        margin: 0;
+    }
+
+    article.content-card, article.post-card {
+        background-color: var(--card-bg);
+        padding: 2.5rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        border: none;
+        margin-bottom: 2rem;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    article.post-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 24px rgba(93, 24, 40, 0.15);
+    }
+
+    a { color: #800020; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 6px;
+        display: block;
+        margin: 1.5rem auto;
+    }
+
+    figure {
+        margin: 1.5rem 0;
+        text-align: center;
+    }
+
+    figure figcaption {
+        font-style: italic;
+        color: #666;
+        font-size: 0.9rem;
+        margin-top: 0.5rem;
+    }
+
+    .footer-section {
+        text-align: center;
+        margin-top: auto;
+        padding: 2rem 0;
+    }
+
+    .contact-links {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        font-size: 0.95rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .contact-links a {
+        font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container site-nav">
+      <nav style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <ul>
+          <li><strong><a href="/" style="font-size: 1.15rem;">Peter Jauhal</a></strong></li>
+        </ul>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="container header-hero">
+      <h1 class="site-title"><a href="/">Jauhal.org</a></h1>
+      <p class="site-subtitle">Welcome to Peter's blog</p>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="container footer-section">
+    <hr>
+    <div class="contact-links">
+      <span>📞 <a href="tel:+442046525324">+44 20 4652 5324</a></span>
+      <span>✉️ <a href="mailto:public@jauhal.org">public@jauhal.org</a></span>
+      <span>𝕏 <a href="https://x.com/JauhalPeter" target="_blank" rel="noopener">@JauhalPeter</a></span>
+    </div>
+    <p>
+      <small style="color: var(--pico-muted-color);">Powered by n8n & GitHub Pages</small>
+    </p>
+  </footer>
+
+</body>
+</html>

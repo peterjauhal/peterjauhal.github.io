@@ -1,0 +1,9 @@
+title: "Jauhal.org"
+url: "https://jauhal.org"
+author: "Peter Jauhal"
+email: "public@jauhal.org"
+phone: "+44 20 4652 5324"
+twitter: "JauhalPeter"
+markdown: kramdown
+future: true
+permalink: /blog/:categories/:year/:month/:day/:title.html

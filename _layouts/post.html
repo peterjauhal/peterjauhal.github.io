@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<article class="content-card">
+  <div style="margin-bottom: 1.5rem;">
+    <a href="/" style="font-size: 0.9rem; font-weight: 500;">← Back to all posts</a>
+  </div>
+
+  <header style="margin-bottom: 2rem;">
+    <h1 style="font-size: 2.25rem; margin-bottom: 0.5rem; color: var(--text-color);">{{ page.title }}</h1>
+    <small style="color: #666;">{{ page.date | date: "%B %d, %Y" }}</small>
+  </header>
+
+  <div class="post-body" style="font-size: 1.1rem; line-height: 1.75;">
+    {{ content }}
+  </div>
+
+  {% if page.categories %}
+  <footer style="margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #eee;">
+    <small style="color: #666;">Tags: {{ page.categories | join: ', ' }}</small>
+  </footer>
+  {% endif %}
+</article>

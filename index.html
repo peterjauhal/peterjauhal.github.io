@@ -1,110 +1,21 @@
 ---
-layout: null
+layout: default
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Jauhal.org</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-  <style>
-    /* Custom Color Palette: Burgundy & Cream */
-    :root {
-        --bg-color: #F5E6E8;       /* Light Burgundy/Creamy Background */
-        --header-bg: #5D1828;      /* Deep Burgundy */
-        --header-text: #ffffff;
-        --card-bg: #ffffff;
-        --text-color: #2c2c2c;
-    }
-
-    body {
-        background-color: var(--bg-color);
-        color: var(--text-color);
-    }
-    
-    /* Styled Burgundy Header */
-    .site-header {
-        padding: 4rem 0;
-        background-color: var(--header-bg);
-        color: var(--header-text);
-        box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-        margin-bottom: 3rem;
-        text-align: center;
-    }
-    
-    .site-title {
-        font-size: 3rem;
-        margin-bottom: 0.5rem;
-        color: var(--header-text); /* Force white text */
-        font-family: serif; /* More premium look */
-    }
-    
-    .site-subtitle {
-        color: rgba(255, 255, 255, 0.9); /* High contrast off-white */
-        font-size: 1.2rem;
-        font-weight: 300;
-        margin-top: 0;
-    }
-
-    /* Cards should pop against the color background */
-    article.post-card {
-        background-color: var(--card-bg);
-        padding: 2rem;
-        border-radius: 8px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-        transition: transform 0.2s;
-        border: none; /* Remove default borders */
-    }
-    article.post-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 24px rgba(93, 24, 40, 0.15); /* Burgundy tinted shadow */
-    }
-    
-    a { color: #800020; text-decoration: none; } /* Burgundy Links */
-    a:hover { text-decoration: underline; }
-  </style>
-</head>
-<body>
-  
-  <header class="site-header">
-    <div class="container">
-      <h1 class="site-title">Jauhal.org</h1>
-      <p class="site-subtitle">Welcome to Peter's blog</p>
-    </div>
-  </header>
-
-  <main class="container">
-    <section>
-      {% for post in site.posts %}
-        <article class="post-card">
-          <header>
-            <h3><a href="{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a></h3>
-            <small>{{ post.date | date_to_string }}</small>
-          </header>
-          <p>
-            {{ post.excerpt | strip_html | truncatewords: 30 }}
-          </p>
-          <footer>
-             {% if post.categories %}
-               <small>Tags: {{ post.categories | join: ', ' }}</small>
-             {% endif %}
-          </footer>
-        </article>
-      {% endfor %}
-    </section>
-  </main>
-
-  <footer class="container" style="text-align: center; margin-top: 3rem; margin-bottom: 2rem;">
-      <hr>
-      <p>
-        <small>Email: <a href="mailto:public@jauhal.org">public@jauhal.org</a></small>
-        <br>
-        <small>Connect with me on X: <a href="https://x.com/JauhalPeter" target="_blank">@JauhalPeter</a></small>
-        <br>
-        <small style="color: var(--pico-muted-color);">Powered by n8n & GitHub Pages</small>
+<section>
+  {% for post in site.posts %}
+    <article class="post-card">
+      <header>
+        <h3 style="margin-bottom: 0.5rem;"><a href="{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a></h3>
+        <small style="color: #666;">{{ post.date | date: "%B %d, %Y" }}</small>
+      </header>
+      <p style="margin-top: 1rem; line-height: 1.6;">
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
       </p>
-  </footer>
-
-</body>
-</html>
+      <footer>
+         {% if post.categories %}
+           <small style="color: #777;">Tags: {{ post.categories | join: ', ' }}</small>
+         {% endif %}
+      </footer>
+    </article>
+  {% endfor %}
+</section>

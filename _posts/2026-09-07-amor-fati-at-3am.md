@@ -5,8 +5,6 @@ date: 2026-09-07 12:00:00 +0000
 categories: blog philosophy health stoicism
 ---
 
-# Amor Fati at 3am
-
 At 3am, the body talks. Not in words — in numbers. A suppressed HRV. Sleep that arrived in shallow pieces. A heart rate that will not settle. The watch on the nightstand is the only witness.
 
 ![Smartwatch on nightstand](/pictures/amor-fati-2026-09-07-watch-2232.jpg)
