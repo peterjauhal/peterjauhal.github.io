@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amor Fati at 3am"
-date: 2026-09-07 16:00:00 +0000
+date: 2026-09-07 12:00:00 +0000
 categories: blog philosophy health stoicism
 ---
 
