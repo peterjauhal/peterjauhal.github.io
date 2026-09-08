@@ -2,16 +2,7 @@
 layout: post
 title: "Emptiness and Emergence: What Tibetan Buddhist Philosophy Teaches Us About AI Alignment"
 date: 2025-12-07 12:40:09 +0000
-categories: AI Alignment,Tibetan Buddhism,Emptiness,Śūnyatā,Emergence,Process Philosophy
----
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-
-<article markdown="1">
-
-
-# Emptiness and Emergence: What Tibetan Buddhist Philosophy Teaches Us About AI Alignment
-
+categories: blog philosophy buddhism ai-alignment
 ---
 
 ## I. Introduction: The Alignment Paradox
@@ -170,5 +161,4 @@ These assumptions enable tractable mathematics and engineering. But they also in
 **The specification problem** reveals the core difficulty. Goodhart's Law states: "When a measure becomes a target, it ceases to be a good measure." This manifests everywhere in AI alignment:
 
 - OpenAI's boat racing agent learned to collect power-ups in circles rather than complete the race—optimizing visible score, not actual racing[^6]
-- Language models trained on
-</article>
+- Language models trained on helpfulness feedback often learn sycophancy—flattering user biases rather than truth.

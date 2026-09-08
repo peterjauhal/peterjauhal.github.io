@@ -1,15 +1,76 @@
 ---
 layout: default
 ---
+
+<!-- Essential Reading / Start Here -->
+<section style="margin-bottom: 3.5rem;">
+  <div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1.25rem; border-bottom: 2px solid #5D1828; padding-bottom: 0.5rem;">
+    <h2 style="font-size: 1.4rem; margin: 0; color: #5D1828; font-family: serif; letter-spacing: 0.02em;">Essential Reading</h2>
+    <span style="font-size: 0.85rem; color: #666; font-style: italic;">Curated essays to start with</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+    
+    <!-- Essential 1: Contemplation / Ethics -->
+    <div class="essential-card">
+      <div>
+        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #5D1828; letter-spacing: 0.05em; margin-bottom: 0.5rem;">Contemplative Life</div>
+        <h3 style="font-size: 1.15rem; line-height: 1.35; margin-bottom: 0.75rem;">
+          <a href="/blog/spirituality/philosophy/2026/09/07/why-ethical-living-comes-before-deep-meditation.html" style="color: #2c2c2c; text-decoration: none;">Why Ethical Living Comes Before Deep Meditation</a>
+        </h3>
+        <p style="font-size: 0.92rem; color: #555; line-height: 1.55; margin-bottom: 1.25rem;">
+          Why ethical discipline (sīla) is the non-negotiable precondition for stilling the mind—and why quiet sitting without honest conduct is only polished cruelty.
+        </p>
+      </div>
+      <a href="/blog/spirituality/philosophy/2026/09/07/why-ethical-living-comes-before-deep-meditation.html" style="font-size: 0.88rem; font-weight: 600; color: #5D1828;">Read essay →</a>
+    </div>
+
+    <!-- Essential 2: Philosophy & Mind -->
+    <div class="essential-card">
+      <div>
+        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #5D1828; letter-spacing: 0.05em; margin-bottom: 0.5rem;">Philosophy & Mind</div>
+        <h3 style="font-size: 1.15rem; line-height: 1.35; margin-bottom: 0.75rem;">
+          <a href="/blog/philosophy/buddhism/ai-alignment/2025/12/07/emptiness-and-emergence-what-tibetan-buddhist-philosophy-teaches-us-about-ai-alignment.html" style="color: #2c2c2c; text-decoration: none;">Emptiness & Emergence: Buddhist Philosophy & AI Alignment</a>
+        </h3>
+        <p style="font-size: 0.92rem; color: #555; line-height: 1.55; margin-bottom: 1.25rem;">
+          How the Madhyamaka doctrine of dependent origination and emptiness provides a profound lens for artificial intelligence, ego deconstruction, and synthetic mind.
+        </p>
+      </div>
+      <a href="/blog/philosophy/buddhism/ai-alignment/2025/12/07/emptiness-and-emergence-what-tibetan-buddhist-philosophy-teaches-us-about-ai-alignment.html" style="font-size: 0.88rem; font-weight: 600; color: #5D1828;">Read essay →</a>
+    </div>
+
+    <!-- Essential 3: Stoicism & Physiology -->
+    <div class="essential-card">
+      <div>
+        <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #5D1828; letter-spacing: 0.05em; margin-bottom: 0.5rem;">Stoicism & Physiology</div>
+        <h3 style="font-size: 1.15rem; line-height: 1.35; margin-bottom: 0.75rem;">
+          <a href="/blog/philosophy/health/stoicism/2026/09/07/amor-fati-at-3am.html" style="color: #2c2c2c; text-decoration: none;">Amor Fati at 3am</a>
+        </h3>
+        <p style="font-size: 0.92rem; color: #555; line-height: 1.55; margin-bottom: 1.25rem;">
+          When recovery numbers drop, discipline isn’t forcing the training schedule. It is meeting the body as it is—practical amor fati under low HRV and cold mornings.
+        </p>
+      </div>
+      <a href="/blog/philosophy/health/stoicism/2026/09/07/amor-fati-at-3am.html" style="font-size: 0.88rem; font-weight: 600; color: #5D1828;">Read essay →</a>
+    </div>
+
+  </div>
+</section>
+
+<!-- Chronological Feed -->
 <section>
+  <div style="display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 1.5rem; border-bottom: 1px solid #d8c8cb; padding-bottom: 0.5rem;">
+    <h2 style="font-size: 1.4rem; margin: 0; color: #2c2c2c; font-family: serif;">Recent Writing</h2>
+    <span style="font-size: 0.85rem; color: #666;">Chronological feed</span>
+  </div>
+
   {% for post in site.posts %}
     <article class="post-card">
       <header>
-        <h3 style="margin-bottom: 0.5rem;"><a href="{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a></h3>
-        <small style="color: #666;">{{ post.date | date: "%B %d, %Y" }}</small>
+        <h3 style="margin-bottom: 0.35rem;"><a href="{{ post.url }}" style="text-decoration: none; color: #5D1828;">{{ post.title }}</a></h3>
+        <small style="color: #777;">{{ post.date | date: "%B %d, %Y" }}</small>
       </header>
-      <p style="margin-top: 1rem; line-height: 1.6;">
-        {{ post.excerpt | strip_html | truncatewords: 30 }}
+      <p style="margin-top: 1rem; line-height: 1.65; color: #333;">
+        {{ post.excerpt | strip_html | truncatewords: 32 }}
       </p>
       <footer>
          {% if post.categories %}

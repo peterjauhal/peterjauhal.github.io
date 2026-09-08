@@ -75,10 +75,12 @@
     }
 
     .site-subtitle {
-        color: rgba(255, 255, 255, 0.9);
-        font-size: 1.2rem;
+        color: rgba(255, 255, 255, 0.92);
+        font-size: 1.15rem;
         font-weight: 300;
-        margin: 0;
+        max-width: 640px;
+        margin: 0 auto;
+        line-height: 1.5;
     }
 
     article.content-card, article.post-card {
@@ -94,6 +96,43 @@
     article.post-card:hover {
         transform: translateY(-4px);
         box-shadow: 0 8px 24px rgba(93, 24, 40, 0.15);
+    }
+
+    .essential-card {
+        background-color: #ffffff;
+        padding: 1.75rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        border-top: 4px solid #5D1828;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .essential-card:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 8px 20px rgba(93, 24, 40, 0.12);
+    }
+
+    .topic-pill {
+        display: inline-block;
+        padding: 0.35rem 0.85rem;
+        border-radius: 20px;
+        background: #ffffff;
+        color: #5D1828;
+        border: 1px solid #dfcfd2;
+        font-size: 0.85rem;
+        font-weight: 500;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+        transition: all 0.2s;
+    }
+
+    .topic-pill:hover {
+        background: #5D1828;
+        color: #ffffff;
+        text-decoration: none;
     }
 
     a { color: #800020; text-decoration: none; }
@@ -156,7 +195,7 @@
     </div>
     <div class="container header-hero">
       <h1 class="site-title"><a href="/">Jauhal.org</a></h1>
-      <p class="site-subtitle">Welcome to Peter's blog</p>
+      <p class="site-subtitle">Inquiries into Eastern and Western philosophy, contemplative practice, and the realities of daily living.</p>
     </div>
   </header>
 
@@ -170,6 +209,7 @@
       <span>📞 <a href="tel:+442046525324">+44 20 4652 5324</a></span>
       <span>✉️ <a href="mailto:public@jauhal.org">public@jauhal.org</a></span>
       <span>𝕏 <a href="https://x.com/JauhalPeter" target="_blank" rel="noopener">@JauhalPeter</a></span>
+      <span>📡 <a href="/rss.xml">RSS</a></span>
     </div>
     <p>
       <small style="color: var(--pico-muted-color);">Powered by n8n & GitHub Pages</small>
